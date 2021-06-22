@@ -1,4 +1,4 @@
 # planets
-Some notes about planets.
+Some new notes about planets.
 Software Carpentry Course June 2021
 Practical exercise
